@@ -12,10 +12,16 @@ Welcome to the Party Hire Store Program! This software is designed to help manag
 ## Installation
 
 1. Download the 'party_hire_store.py' file.
-2. Ensure you have Python installed on your system.
+2. Ensure you have Python and VS Code installed on your system.
+3. Open the file and run.
+
+## Installation (without VS code)
+1. Download the 'party_hire_store.py' file.
+2. Ensure you have Python and VS Code installed on your system.
 3. Open a terminal or command prompt.
 4. Navigate to the directory where the 'party_hire_store.py' file is located.
 5. Run the following command to start the program:
+   
    ```
    python party_hire_store.py
    ```
@@ -79,11 +85,3 @@ Upon starting the Party Hire Store Program, you will see the main window with tw
 - 'Full Name' should only contain alphabetical characters.
 - To return an item, make sure to enter the correct quantity to avoid errors.
 - Regularly save your data or create backups to avoid data loss.
-
-## Conclusion
-
-The Party Hire Store Program simplifies inventory management and party hire tracking. Use this user guide to navigate through the features effectively. If you encounter any issues or have questions, feel free to reach out for support.
-
-Happy party hiring!
-
----
