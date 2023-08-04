@@ -4,11 +4,11 @@ Julie's Hire Store program to manage, update, and delete hire items.
 **<h1>Credits</h1>**
 Some tricks were taken from Daniel Hu, and many thanks to the contributors and stakeholders.
 
-<h3>System requirements
-OS: Windows 7-11
-Spotify: latest official versions
-For Windows Desktop only (Microsoft store version is not suitable).
-PowerShell: version 5 and above recommended</h3>
+<h1>System requirements</h1>
+<h3>OS: Windows 7-11</h3>
+<h3>Spotify: latest official versions</h3>
+<h3>For Windows Desktop only (Microsoft store version is not suitable).</h3>
+<h3>PowerShell: version 5 and above recommended</h3>
 
 
 
